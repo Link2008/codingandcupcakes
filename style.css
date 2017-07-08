@@ -1,0 +1,15 @@
+html, body {
+	background: #fff493;
+	font-family: 'Kurale', serif;
+	color: #d1109d;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+.header{
+	overflow: auto;
+	display: block;
+	clear:both;
+	background: #E58892;
+}
